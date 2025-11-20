@@ -1,0 +1,28 @@
+{
+  "name": "unity-react-native-comm",
+  "version": "1.0.0",
+  "description": "Unity project for React Native integration with message communication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0",
+    "build:unity": "echo \"Use Unity Editor to build for WebGL platform\"",
+    "dev": "echo \"Open project in Unity Editor for development\""
+  },
+  "keywords": [
+    "unity",
+    "react-native",
+    "webgl",
+    "game-development",
+    "mobile"
+  ],
+  "author": "Unity React Native Integration Team",
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "local"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
